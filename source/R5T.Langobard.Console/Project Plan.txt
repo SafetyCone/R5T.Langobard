@@ -1,0 +1,4 @@
+R5T.Langobard.Console - A Microsoft console logging package version selector library.
+
+Goals
+

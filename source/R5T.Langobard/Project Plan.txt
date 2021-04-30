@@ -1,4 +1,6 @@
-R5T.Langobard - A Microsoft logging package version selector library.
+R5T.Langobard - A Microsoft.Extensions.Logging.Abstractions package version selector library.
+
+* Logging abstractions only!
 
 Goals
 
