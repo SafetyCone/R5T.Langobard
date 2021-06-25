@@ -1,0 +1,4 @@
+R5T.Langobard.Extensions - An extensions and additional functionality library for the Microsoft.Extensions.Logging.Abstractions package.
+
+Goals
+
